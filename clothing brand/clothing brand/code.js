@@ -149,4 +149,3 @@ window.addEventListener('scroll', function() {
 // Console message for developers
 console.log('LUXE Clothing Brand Website - Loaded Successfully');
 console.log('This is a demo website. All product data is placeholder.');
-```
